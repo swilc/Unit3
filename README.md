@@ -36,10 +36,3 @@ These are all of the assignments that CodeHS couldn't grade.. All of them are no
 [My Work](https://codehs.com/editor/html/415421/2564367/index.html)
 
 [Their Example](https://codehs.com/editor/415421/solution/index.html)
-
-3.
--
-
-[My Work]()
-
-[Their Example]()
